@@ -17,5 +17,5 @@ Docker image to be used for building a container ready with Oracle instant clien
 Within your Dockerfile:
 
 ```
-FROM vitorveiga/docker-node-oracle:8
+FROM vitorveiga/docker-node-oracle
 ```
