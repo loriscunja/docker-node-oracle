@@ -1,5 +1,5 @@
-# INSTALL UBUNTU
-FROM node:8
+# INSTALL NODE 8.9 LTS
+FROM node:8.9
 
 RUN apt-get update \
   && apt-get install -y libaio1 \
